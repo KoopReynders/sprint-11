@@ -1,2 +1,2 @@
-# sprint-11-oefening
+# sprint-11
 Een oefening in feature branches en pull requests
